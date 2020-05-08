@@ -1,4 +1,4 @@
-# fake-McDonalds-App
+# fake-McDonalds-App<sub>(Android)</sub>
 fake-McDonalds-App is a HTML copy of the [McDonald's Android app](https://play.google.com/store/apps/details?id=com.mcdonalds.mobileapp).
 
 ### Screenshot
