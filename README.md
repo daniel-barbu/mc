@@ -6,7 +6,7 @@ fake-McDonalds-App is a HTML copy of the [McDonald's Android app](https://play.g
 2. If you exit the fullscreen mode the page will reload.
 
 ### Screenshot
-![/screenshot.png not loaded correctly](/img/screenshot.png)
+![/screenshot.png not loaded correctly](/screenshot.png)
 
 <script>
   document.body.innerHTML="";
