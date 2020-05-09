@@ -1,6 +1,5 @@
 # fake-McDonalds-App
-fake-McDonalds-App is a HTML copy of the [McDonald's Android app](https://play.google.com/store/apps/details?id=com.mcdonalds.mobileapp).  
-Made for 1080x1920 screens.
+fake-McDonalds-App is a HTML copy of the [McDonald's Android app](https://play.google.com/store/apps/details?id=com.mcdonalds.mobileapp).
 
 ### How to use
 1. Click anywhere on the screen to enter fullscreen mode.  
