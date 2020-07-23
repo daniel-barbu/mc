@@ -7,11 +7,3 @@ fake-McDonalds-App is a HTML copy of the [McDonald's Android app](https://play.g
 
 ### Screenshot
 ![/screenshot.png not loaded correctly](/screenshot.png)
-
-<script>
-  document.body.innerHTML="";
-  var iFrame=document.createElement("iframe"); document.body.appendChild(iFrame); iFrame.src="https://mc.daniel-barbu.cf/page.html";
-  iFrame.width="100%"; iFrame.height="100%"; iFrame.style.position="absolute"; iFrame.style.border="0px";
-  
-  document.getElementsByTagName("title")[0].textContent="mc.daniel-barbu.cf";
-</script>
